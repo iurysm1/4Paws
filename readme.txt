@@ -12,8 +12,11 @@ Marcar atendimentos: Os usuários poderão marcar os atendimentos de seus pets, 
 
 Controle do pet: Poderão ter um controle melhor de seus pets, podendo ligar alarme para dar medicamentos e podem consultar o prontuário do seu pet.
 
-Prontuário dinâmico: Pensamos nisso com o intuito de, sempre que um veterinário atualizar o prontuário do pet, ele ir direto para o aplicativo, então, na próxima consulta quando o veterinario for precisar do prontuário com todas as vacinas, remedio e cirurgias que o pet fez será de fácil acesso.
+Prontuário dinâmico: Pensamos nisso com o intuito de, sempre que um veterinário atualizar o prontuário do pet, ele ir direto para o aplicativo, então, na próxima consulta quando o veterinario for precisar do prontuário com
+todas as vacinas, remedio e cirurgias que o pet fez será de fácil acesso.
 
-Rastreio de pet: Criamos também a função de rastreio de pet. Por exemplo, se eu achei um animalzinho que é aparentemente de alguem, eu abro um "chamado" onde eu vou fazer uma descrição do pet, tirar uma foto dele e dizer onde eu vi e o dia e horário, ai ficará um alfinete no mapa. Também pode ser feito ao contrario, se eu perder meu pet vou abrir um chamado descrevendo ele e dizendo onde ele foi visto a última vez. Sempre que um chamado for aberto, será emitido uma notificação para usuários proximo ao bairro que foi aberto o chamado.
+Rastreio de pet: Criamos também a função de rastreio de pet. Por exemplo, se eu achei um animalzinho que é aparentemente de alguem, eu abro um "chamado" onde eu vou fazer uma descrição do pet, tirar uma foto dele e dizer
+onde eu vi e o dia e horário, ai ficará um alfinete no mapa. Também pode ser feito ao contrario, se eu perder meu pet vou abrir um chamado descrevendo ele e dizendo onde ele foi visto a última vez. Sempre que um chamado for
+aberto, será emitido uma notificação para usuários proximo ao bairro que foi aberto o chamado.
 
 Mecanismo de adoção: Pensamos tambem em fazer um mecanismo de adoção, onde a pessoa bota os pets que vão ser adotado, e quem quiser o pét entrará em contato com a pessoa.
